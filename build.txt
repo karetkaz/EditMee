@@ -1,0 +1,6 @@
+scintilla/qt/ScintillaEditBase/ScintillaEditBase.pro
+	CONFIG += staticlib
+	build project
+
+editmee/editmee.pro
+	build project

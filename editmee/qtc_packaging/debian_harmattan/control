@@ -1,0 +1,14 @@
+Source: editmee
+Section: user/other
+Priority: optional
+Maintainer: kmz
+Build-Depends: debhelper (>= 5), libqt4-dev
+Standards-Version: 3.7.3
+Homepage: <insert the upstream URL, if relevant>
+
+Package: editmee
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Scintilla based text editor.
+ Scintilla based text editor.
+XSBC-Maemo-Display-Name: EditMee

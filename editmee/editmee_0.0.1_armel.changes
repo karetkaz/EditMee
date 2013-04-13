@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Sun, 07 Apr 2013 14:16:41 +0300
+Source: editmee
+Binary: editmee
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: kmz
+Changed-By: kmz <kmz@unknown>
+Description: 
+ editmee    - text editor.
+Changes: 
+ editmee (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 8ef4ef6ffc2f4647fa97308a77f86f855fbb0e4c 924608 editmee_0.0.1_armel.deb
+Checksums-Sha256: 
+ a7aeeaadb9b335403d3dc7460d04e4964da7996d1875f4acbbae780298f07a9d 924608 editmee_0.0.1_armel.deb
+Files: 
+ 1e6802af93e59263d42b9952ff765d90 924608 user/other optional editmee_0.0.1_armel.deb
+Maemo-Display-Name: EditMee
