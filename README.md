@@ -1,4 +1,4 @@
-scintilla-qml-text-editor
-=========================
+EditMee
+=======
 
-a very simple text editor for meego using scintilla.
+A very simple text editor for meego using scintilla.
